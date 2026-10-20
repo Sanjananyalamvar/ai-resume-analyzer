@@ -1,0 +1,10 @@
+SUMMARY
+Computer Science student interested in data analytics and business intelligence.
+SKILLS
+Python, SQL, Pandas, Excel, Power BI, Statistics, Data Visualization, Git
+PROJECTS
+E-commerce Sales Analysis — Used Python and Pandas to clean sales data, explored monthly revenue and product trends, and created visualizations in Matplotlib. Documented limitations and recommendations.
+EDUCATION
+B.Tech Computer Science, Expected 2027
+CERTIFICATIONS
+Introductory Python course

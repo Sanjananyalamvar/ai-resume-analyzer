@@ -1,0 +1,5 @@
+skill,topic,url
+Python,Python fundamentals,https://docs.python.org/3/tutorial/
+SQL,SQL queries and joins,https://sqlbolt.com/
+Pandas,Data analysis with Pandas,https://pandas.pydata.org/docs/getting_started/
+Machine Learning,Machine learning fundamentals,https://scikit-learn.org/stable/getting_started.html

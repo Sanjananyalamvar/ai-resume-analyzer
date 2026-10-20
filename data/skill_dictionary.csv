@@ -1,0 +1,139 @@
+skill,category,aliases
+Python,Programming,python|py
+Java,Programming,java
+C,Programming,c language
+C++,Programming,cpp
+C#,Programming,c sharp
+JavaScript,Programming,javascript|js
+TypeScript,Programming,typescript|ts
+SQL,Database,sql
+HTML,Web,html5
+CSS,Web,css3
+Bash,Tools,shell scripting|bash scripting
+R,Data Science,r language
+PHP,Web,php
+Go,Programming,golang
+Rust,Programming,rust
+NumPy,Data Science,numpy
+Pandas,Data Science,pandas
+Matplotlib,Data Science,matplotlib
+Seaborn,Data Science,seaborn
+Plotly,Data Science,plotly
+Excel,Data Analysis,ms excel|microsoft excel
+Power BI,Data Analysis,powerbi
+Tableau,Data Analysis,tableau
+Statistics,Data Analysis,statistics|statistical analysis
+Data Cleaning,Data Analysis,data cleansing
+Exploratory Data Analysis,Data Analysis,eda|exploratory data analysis
+Data Visualization,Data Analysis,data visualisation|data visualization
+A/B Testing,Data Analysis,ab testing|a/b test
+ETL,Data Engineering,etl
+Apache Spark,Data Engineering,spark|pyspark
+Hadoop,Data Engineering,hadoop
+Airflow,Data Engineering,apache airflow
+Machine Learning,AI/ML,machine learning|ml
+Deep Learning,AI/ML,deep learning|dl
+scikit-learn,AI/ML,sklearn|scikit learn
+TensorFlow,AI/ML,tensorflow
+PyTorch,AI/ML,pytorch
+Natural Language Processing,AI/ML,nlp|natural language processing
+Computer Vision,AI/ML,computer vision|opencv
+Generative AI,AI/ML,genai|generative ai
+LLM,AI/ML,llms|large language model|large language models
+Prompt Engineering,AI/ML,prompt engineering
+RAG,AI/ML,retrieval augmented generation|rag
+Hugging Face,AI/ML,huggingface|hugging face
+Model Evaluation,AI/ML,model evaluation
+Feature Engineering,AI/ML,feature engineering
+Regression,AI/ML,regression
+Classification,AI/ML,classification
+Clustering,AI/ML,clustering
+React,Web,reactjs|react.js
+Node.js,Web,nodejs|node js
+Express.js,Web,express|expressjs
+Django,Web,django
+Flask,Web,flask
+FastAPI,Web,fastapi
+Streamlit,Web,streamlit
+REST API,Web,rest api|restful api|restful apis
+JSON,Web,json
+Bootstrap,Web,bootstrap
+Tailwind CSS,Web,tailwind|tailwindcss
+Spring Boot,Web,spring boot
+MySQL,Database,mysql
+PostgreSQL,Database,postgres|postgresql
+SQLite,Database,sqlite
+MongoDB,Database,mongodb|mongo db
+Redis,Database,redis
+Database Design,Database,database design|normalization
+Firebase,Cloud,firebase
+Git,Tools,git
+GitHub,Tools,github
+Linux,Tools,linux
+Docker,Cloud,docker|containerization
+Kubernetes,Cloud,k8s|kubernetes
+AWS,Cloud,amazon web services|aws
+Azure,Cloud,microsoft azure|azure
+Google Cloud,Cloud,gcp|google cloud platform
+CI/CD,DevOps,continuous integration|continuous deployment|ci cd
+GitHub Actions,DevOps,github actions
+Testing,Software Engineering,unit testing|software testing
+Pytest,Software Engineering,pytest
+Debugging,Software Engineering,debugging
+Object-Oriented Programming,Programming,oop|object oriented programming
+Data Structures,Computer Science,data structures
+Algorithms,Computer Science,algorithms
+Problem Solving,Computer Science,problem solving
+Agile,Software Engineering,agile
+SDLC,Software Engineering,software development life cycle
+Cybersecurity,Security,cybersecurity|information security
+Networking,Security,computer networks|networking
+Linux Administration,Systems,linux administration
+Operating Systems,Systems,operating systems|os concepts
+PowerPoint,Productivity,microsoft powerpoint|powerpoint
+Word,Productivity,microsoft word|ms word
+Communication,Professional,communication skills
+Teamwork,Professional,teamwork
+Leadership,Professional,leadership
+Research,Professional,research
+Technical Writing,Professional,technical writing
+Figma,Design,figma
+UI/UX,Design,ui ux|user experience|user interface
+Canva,Design,canva
+Jupyter Notebook,Data Science,jupyter|jupyter notebook
+Google Colab,Data Science,colab|google colab
+BeautifulSoup,Data Engineering,beautifulsoup|bs4
+Selenium,Testing,selenium
+Playwright,Testing,playwright
+OpenAI API,AI/ML,openai api
+Groq API,AI/ML,groq api
+Vector Databases,AI/ML,vector database|vector databases
+LangChain,AI/ML,langchain
+LlamaIndex,AI/ML,llamaindex
+Model Deployment,AI/ML,model deployment
+MLOps,AI/ML,mlops
+FastText,AI/ML,fasttext
+Reinforcement Learning,AI/ML,reinforcement learning
+Time Series Analysis,Data Science,time series
+Data Warehousing,Data Engineering,data warehouse|data warehousing
+dbt,Data Engineering,dbt
+Apache Kafka,Data Engineering,kafka|apache kafka
+Snowflake,Data Engineering,snowflake
+BigQuery,Data Engineering,bigquery|google bigquery
+Looker,Data Analysis,looker
+DAX,Data Analysis,dax
+Power Query,Data Analysis,power query
+Numba,Data Science,numba
+SciPy,Data Science,scipy
+SymPy,Data Science,sympy
+LaTeX,Tools,latex
+MATLAB,Programming,matlab
+Unity,Development,unity
+Unreal Engine,Development,unreal engine
+Flutter,Mobile,flutter
+Dart,Mobile,dart
+Android,Mobile,android development
+Kotlin,Mobile,kotlin
+Swift,Mobile,swift
+Figma Prototyping,Design,figma prototyping
+OpenCV,AI/ML,opencv|open cv

@@ -1,0 +1,27 @@
+role,required_skills,keywords
+Python Developer,Python|Object-Oriented Programming|Data Structures|Algorithms|Git|SQL|REST API|Testing,python backend scripting automation
+Data Analyst,SQL|Excel|Pandas|Python|Statistics|Data Visualization|Power BI,business insights reporting dashboards data cleaning exploratory analysis analytics
+Data Scientist,Python|SQL|Pandas|NumPy|Statistics|Machine Learning|scikit-learn|Feature Engineering|Model Evaluation|Data Visualization,experimentation prediction modeling
+AI Engineer,Python|Machine Learning|Deep Learning|LLM|Generative AI|Prompt Engineering|REST API|Git|Model Evaluation,ai application llm integration
+Machine Learning Engineer,Python|Machine Learning|scikit-learn|TensorFlow|PyTorch|Feature Engineering|Model Evaluation|Docker|Git|Model Deployment,training deployment ml pipeline
+Frontend Developer,HTML|CSS|JavaScript|TypeScript|React|Git|REST API|Testing,frontend web user interface
+Full Stack Developer,HTML|CSS|JavaScript|React|Node.js|Express.js|SQL|MongoDB|REST API|Git,frontend backend web application
+Backend Developer,Python|Java|SQL|REST API|Database Design|Git|Docker|Testing,backend api server
+Web Developer,HTML|CSS|JavaScript|React|REST API|Git|SQL,website responsive frontend
+Business Intelligence Analyst,SQL|Excel|Power BI|Tableau|Data Visualization|Statistics|Data Cleaning,bi reporting dashboard business
+Data Engineer,Python|SQL|ETL|Apache Spark|Airflow|Docker|AWS|Data Warehousing|Git,data pipeline big data
+Cloud Engineer,AWS|Azure|Google Cloud|Linux|Docker|Kubernetes|CI/CD|Networking|Git,cloud infrastructure automation
+DevOps Engineer,Linux|Docker|Kubernetes|CI/CD|Git|GitHub Actions|AWS|Testing|Bash,deployment automation reliability
+Cybersecurity Analyst,Cybersecurity|Networking|Linux|Python|Operating Systems|Problem Solving,security incident vulnerability
+QA Automation Engineer,Python|Testing|Pytest|Selenium|Playwright|Git|Debugging|CI/CD,quality assurance automation
+Java Developer,Java|Object-Oriented Programming|Data Structures|Algorithms|SQL|Spring Boot|Git|Testing,java backend software
+Android Developer,Kotlin|Java|Android|Git|REST API|Firebase|Testing,mobile android application
+Mobile App Developer,Flutter|Dart|REST API|Firebase|Git|Testing,mobile cross platform
+NLP Engineer,Python|Natural Language Processing|Machine Learning|Deep Learning|LLM|Hugging Face|Model Evaluation,text language chatbot
+Computer Vision Engineer,Python|Computer Vision|OpenCV|Deep Learning|PyTorch|TensorFlow|Model Evaluation,image video detection
+Research Intern,Python|Statistics|Research|Machine Learning|Data Visualization|Technical Writing,research experiment paper
+Product Analyst,SQL|Excel|Statistics|Data Visualization|A/B Testing|Power BI,product metrics funnel insights
+UI/UX Designer,Figma|UI/UX|Research|Communication|Figma Prototyping,design user research prototype
+Technical Support Engineer,Networking|Linux|SQL|Python|Communication|Debugging|Problem Solving,troubleshooting support systems
+Software Engineer Intern,Python|Java|Data Structures|Algorithms|Git|Testing|Problem Solving|Object-Oriented Programming,software engineering coding
+Generative AI Intern,Python|Generative AI|LLM|Prompt Engineering|RAG|OpenAI API|Vector Databases|REST API,genai rag chatbot
